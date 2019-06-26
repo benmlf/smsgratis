@@ -33,7 +33,7 @@ class Sms:
 		time.sleep(1)
 		print("\033[1;37mMOD    : \033[1;36mGUNAWAN ID")
 		time.sleep(1)
-		print("\033[1;37mCODE   : \033[1;37mAdli Zhafari")
+		print("\033[1;37mCODE   : \033[1;37mKANG-NEWBIE")
 		time.sleep(1)
 		print("\033[1;37mTeam   : \033[1;32m407 Authentic eXploit")
 		time.sleep(1)
