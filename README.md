@@ -1,8 +1,8 @@
-# smsgratis
+# smsgratisb
 # cara install
-$ pkg install python
-$ pkg install git
-$ pip install mechanize
-$ git clone https://github.com/GUNAWAN18ID/smsgratis
-$ cd smsgratis
-$ python smsgratis.py
+$ pkg install python<br>
+$ pkg install git<br>
+$ pip install mechanize<br>
+$ git clone https://github.com/GUNAWAN18ID/smsgratis<br>
+$ cd smsgratis<br>
+$ python smsgratis.py<br>
